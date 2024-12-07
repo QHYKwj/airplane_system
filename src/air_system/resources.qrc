@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/image/background.jpg</file>
+        <file>resources/image/SYSULOGO.png</file>
+        <file>resources/image/airplane.jpg</file>
+        <file>resources/image/fly.png</file>
+        <file>resources/image/landing.png</file>
+        <file>resources/image/plane-ticket.png</file>
+        <file>resources/image/seat.png</file>
+        <file>resources/image/takeoff.png</file>
+        <file>resources/image/zhongda.png</file>
+    </qresource>
+</RCC>
